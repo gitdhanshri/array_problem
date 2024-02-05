@@ -9,7 +9,7 @@ int s_root(int x)
             if(root==x)
             {
                 return mid;
-            }
+            }        
                         else if(root>x){
 
                         high=mid-1;
